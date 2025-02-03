@@ -13,8 +13,8 @@ Gosto de desafios e de explorar novas tecnologias para criar soluções eficient
 
 ### 📌 Restaurante Fastio (API + Aplicação Móvel)
 **🛠️ Sistema completo para gestão de pedidos em um restaurante**
-- **🔗 API:** [Download da API](https://www.dropbox.com/scl/fi/bd9nndno26dgnvo6lpw36/RestauranteFastioProjeto.zip?rlkey=l7bettloyzuidrzy6va2dbi4p&dl=0)
-- **📱 Aplicação Móvel:** [Download da Aplicação](https://www.dropbox.com/scl/fi/dr6uf9jd8csl3suaup7xr/restaurantefastio-2.zip?rlkey=0yndso8zmd1orqtd5b237xsi6&dl=0)
+- **🔗 API:** [Download da API](https://www.dropbox.com/scl/fi/dr6uf9jd8csl3suaup7xr/restaurantefastio-2.zip?rlkey=0yndso8zmd1orqtd5b237xsi6&dl=0)
+- **📱 Aplicação Móvel:** [Download da Aplicação](https://www.dropbox.com/scl/fi/bd9nndno26dgnvo6lpw36/RestauranteFastioProjeto.zip?rlkey=l7bettloyzuidrzy6va2dbi4p&dl=0)
 - **🔧 Tecnologias:** PHP (API), MySQL, Android (Java)
 - **📌 Objetivo:** Gerenciar pedidos de forma eficiente, permitindo integração entre o sistema e dispositivos móveis.
 
